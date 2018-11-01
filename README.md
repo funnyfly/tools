@@ -1,5 +1,5 @@
-# tools
-各种小工具
+# tools 各种小工具集合
+
 img_recognition.py  #通过百度AI平台进行图像识别
 JIRA.py  #jira接口
 novel_spider.py  #小说爬虫
